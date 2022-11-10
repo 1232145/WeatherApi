@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
       color: 'white',
     },
     imageContainer: {
-      flex: 1, //causing the problem
+      flex: 1, 
     },
     image: {
       flex: 1,
