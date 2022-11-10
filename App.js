@@ -74,7 +74,6 @@ export default function App() {
             imageStyle={styles.image}
           >
             <StatusBar barStyle="light-content" />
-            {/* <ShareApp /> */}
             <View style={styles.detailsContainer}>
               <Text style={[styles.largeText, styles.text]}>{location}</Text>
               <Text style={[styles.smallText, styles.text]}>{locationState.condition}</Text>
